@@ -10,6 +10,6 @@ layout: home
 We are building an exciting video game about escaping the maze that is a University Computer Science Course at York University.
 
 To get started, browse the most recent posts seen below.
-To navigate away, choose an option from the heading such as the [about page](about/) or the [content directory page](directory/).
+To navigate away, choose an option from the heading such as the [about page]({{ site.baseurl }}about/) or the [content directory page]({{ site.baseurl }}directory/).
 
 ---
