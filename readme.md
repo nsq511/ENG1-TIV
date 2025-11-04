@@ -4,6 +4,14 @@ This project is built using **LibGDX**
 
 ---
 
+## Folder Structure and Running
+
+The main code for the game is stored in `Game/core/src/main/java/ENG1/teamIV/`
+
+The entry point for the program (for desktop) is `Game/lwjgl3/src/main/java/ENG1/teamIV/lwjgl3/Lwjgl3Launcher.java` 
+
+The assets are stored in `Game/assets`
+
 ## Core Components
 
 ### `Entity`
