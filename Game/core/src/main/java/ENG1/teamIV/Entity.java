@@ -83,9 +83,9 @@ public class Entity {
     }
 
     /**
-     * Sets the position of the Entity
-     * Position refers to the sprite and not the rectangle
-     * The sprite and rectangle centres will be algined
+     * Sets the position of the Entity.
+     * Position refers to the sprite and not the rectangle.
+     * The sprite and rectangle centres will be algined.
      * 
      * @param pos The world position to set the entity to
      */
@@ -93,9 +93,9 @@ public class Entity {
         setPos(pos.x, pos.y);
     }
     /**
-     * Sets the position of the Entity
-     * Position refers to the sprite and not the rectangle
-     * The sprite and rectangle centres will be algined
+     * Sets the position of the Entity.
+     * Position refers to the sprite and not the rectangle.
+     * The sprite and rectangle centres will be algined.
      * 
      * @param x The world X co-ordinate to set the entity to
      * @param y The world Y co-ordinate to set the entity to
@@ -110,10 +110,10 @@ public class Entity {
     }
 
     /**
-     * Updates the previous position of the Entity
-     * Should be called once every frame
+     * Updates the previous position of the Entity.
+     * Should be called once every frame.
      */
-    public void updatePos(){
+    public void updateOldPos(){
         oldPos = getPos();
     }
 
@@ -127,8 +127,8 @@ public class Entity {
     }
 
     /**
-     * Get the position of the Entity
-     * Position refers to the sprite and not the rectangle
+     * Get the position of the Entity.
+     * Position refers to the sprite and not the rectangle.
      * 
      * @return The position of the Entities anchor
      */
@@ -138,6 +138,7 @@ public class Entity {
 
     /**
      * Draws the sprite
+     * 
      * @param batch The SpriteBatch to draw to
      */
     public void draw(Batch batch){
@@ -155,8 +156,8 @@ public class Entity {
     }
 
     /**
-     * Finds the Minimum Translation Vector to separate two overlapping entities
-     * Used in collision resolution
+     * Finds the Minimum Translation Vector to separate two overlapping entities.
+     * Used in collision resolution.
      * 
      * @param other The other entity in the collision
      * @return The Minimum Translation Vector that will push the this entity out. null if no collision
@@ -197,7 +198,7 @@ public class Entity {
 
     /**
      * Resolves a collision between entity and other by moving this entity out of the overlap
-     * using the MTV
+     * using the MTV.
      * 
      * @param other The other entity in the collision
      * @return The new position of the entity
@@ -229,7 +230,7 @@ public class Entity {
     }
 
     /**
-     * Sets the Entity's current position as the position it will move back to on reset
+     * Sets the Entity's current position as the position it will move back to on reset.
      * 
      * Used for when the entity should return to a position other than the position it was 
      * instantiated at on reset, such as being adjusted to sit in the centre of a cell

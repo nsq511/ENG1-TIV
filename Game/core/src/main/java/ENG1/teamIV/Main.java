@@ -550,7 +550,7 @@ public class Main extends ApplicationAdapter {
         }
 
         timer.tick(delta);
-        playerEntity.updatePos();   // Player position should not change after this line
+        playerEntity.updateOldPos();   // Player position should not change after this line
 
         // Check game-over
         if(timer.isFinished()){
