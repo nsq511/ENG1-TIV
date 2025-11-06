@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Week 1 Report"
+date:   2025-09-30 11:00:00 +0100
+categories: week
+---
+
+## Week 1
+
+### Gannt Chart
+
+No chart provided, no information found.
+
+### Meeting 1
+
+|              |           |
+| ------------ | --------- |
+| **Overview** | Getting to know eachother. |
+| **Details**  | This was our oppertunity to get to know eachother, to learn some basic research skills, and to do various bits of easy team admin such as choose a name. No Gannt chart is present for this week as we had nothing of substance to delegate yet. |
+| **Absences** | Skylar Garrett     |
