@@ -15,6 +15,6 @@ categories: example
 
 |              |           |
 | ------------ | --------- |
-| **Absences** | None.     |
 | **Overview** | Summary.  |
 | **Details**  | Not much. |
+| **Absences** | None.     |
