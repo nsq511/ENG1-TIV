@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Week 2 Report"
+date:   2025-10-07 11:00:00 +0100
+categories: week
+---
+
+## Week 2
+
+### Gantt Chart
+
+![Gantt Chart for Week 2]({{ site.baseurl }}images/gantt2.png)
+
+### Meeting 2
+
+|              |           |
+| ------------ | --------- |
+| **Overview** | Getting to Work.  |
+| **Details**  | Now that the team was together and we were all present, it was time to start the risk assessment and planning stage once we knew exactly what the client wanted. It was decided that the work on the website would begin with a phase of research into the best technology to use. |
+| **Absences** | None.     |

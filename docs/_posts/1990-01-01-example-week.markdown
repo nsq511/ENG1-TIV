@@ -7,9 +7,9 @@ categories: example
 
 ## Week 0
 
-### Gannt Chart
+### Gantt Chart
 
-![Example Gannt Chart](#)
+![Example Gantt Chart](#)
 
 ### Meeting 0
 

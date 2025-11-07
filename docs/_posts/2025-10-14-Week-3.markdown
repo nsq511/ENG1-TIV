@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Week 3 Report"
+date:   2025-10-14 11:00:00 +0100
+categories: week
+---
+
+## Week 3
+
+### Gantt Chart
+
+![Gantt Chart for Week 3]({{ site.baseurl }}images/gantt3.png)
+
+### Meeting 3
+
+|              |           |
+| ------------ | --------- |
+| **Overview** | Understanding Requirements.  |
+| **Details**  | The team has been given more details about what the client wants. The risk analysis is well underway and the delegation of work is getting more specific, as highlighted in the chart. |
+| **Absences** | None.     |
