@@ -5,8 +5,6 @@
 layout: home
 ---
 
-# Welcome to Team IV's Project
-
 We are building an exciting video game about escaping the maze that is a University Computer Science Course at York University.
 
 To get started, browse the most recent posts seen below.
