@@ -16,6 +16,7 @@ permalink: /directory/
 
 - [Week 1]({{ site.baseurl }}week/2025/09/30/Week-1.html)
 - [Week 2]({{ site.baseurl }}week/2025/10/07/Week-2.html)
+- [Week 2]({{ site.baseurl }}week/2025/10/14/Week-3.html)
 
 ## Resources
 

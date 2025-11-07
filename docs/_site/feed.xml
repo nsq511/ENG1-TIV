@@ -1,4 +1,33 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="http://localhost:4000/ENG1-TIV/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/ENG1-TIV/" rel="alternate" type="text/html" /><updated>2025-11-07T01:30:34+00:00</updated><id>http://localhost:4000/ENG1-TIV/feed.xml</id><title type="html">Team IV</title><subtitle>The site for ENG1 Team IV of Stage 2 in 2025.</subtitle><entry><title type="html">Week 3</title><link href="http://localhost:4000/ENG1-TIV/2025/10/14/Week-3.html" rel="alternate" type="text/html" title="Week 3" /><published>2025-10-14T00:00:00+01:00</published><updated>2025-10-14T00:00:00+01:00</updated><id>http://localhost:4000/ENG1-TIV/2025/10/14/Week-3</id><content type="html" xml:base="http://localhost:4000/ENG1-TIV/2025/10/14/Week-3.html"><![CDATA[]]></content><author><name></name></author><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Week 2 Report</title><link href="http://localhost:4000/ENG1-TIV/week/2025/10/07/Week-2.html" rel="alternate" type="text/html" title="Week 2 Report" /><published>2025-10-07T11:00:00+01:00</published><updated>2025-10-07T11:00:00+01:00</updated><id>http://localhost:4000/ENG1-TIV/week/2025/10/07/Week-2</id><content type="html" xml:base="http://localhost:4000/ENG1-TIV/week/2025/10/07/Week-2.html"><![CDATA[<h2 id="week-2">Week 2</h2>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="http://localhost:4000/ENG1-TIV/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/ENG1-TIV/" rel="alternate" type="text/html" /><updated>2025-11-07T01:40:15+00:00</updated><id>http://localhost:4000/ENG1-TIV/feed.xml</id><title type="html">Team IV</title><subtitle>The site for ENG1 Team IV of Stage 2 in 2025.</subtitle><entry><title type="html">Week 3 Report</title><link href="http://localhost:4000/ENG1-TIV/week/2025/10/14/Week-3.html" rel="alternate" type="text/html" title="Week 3 Report" /><published>2025-10-14T11:00:00+01:00</published><updated>2025-10-14T11:00:00+01:00</updated><id>http://localhost:4000/ENG1-TIV/week/2025/10/14/Week-3</id><content type="html" xml:base="http://localhost:4000/ENG1-TIV/week/2025/10/14/Week-3.html"><![CDATA[<h2 id="week-3">Week 3</h2>
+
+<h3 id="gannt-chart">Gannt Chart</h3>
+
+<p><img src="/ENG1-TIV/images/gannt3.png" alt="Gannt Chart for Week 3" /></p>
+
+<h3 id="meeting-3">Meeting 3</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th> </th>
+      <th> </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Overview</strong></td>
+      <td>Understanding Requirements.</td>
+    </tr>
+    <tr>
+      <td><strong>Details</strong></td>
+      <td>The team has been given more details about what the client wants. The risk analysis is well underway and the delegation of work is getting more specific, as highlighted in the chart.</td>
+    </tr>
+    <tr>
+      <td><strong>Absences</strong></td>
+      <td>None.</td>
+    </tr>
+  </tbody>
+</table>]]></content><author><name></name></author><category term="week" /><summary type="html"><![CDATA[Week 3]]></summary></entry><entry><title type="html">Week 2 Report</title><link href="http://localhost:4000/ENG1-TIV/week/2025/10/07/Week-2.html" rel="alternate" type="text/html" title="Week 2 Report" /><published>2025-10-07T11:00:00+01:00</published><updated>2025-10-07T11:00:00+01:00</updated><id>http://localhost:4000/ENG1-TIV/week/2025/10/07/Week-2</id><content type="html" xml:base="http://localhost:4000/ENG1-TIV/week/2025/10/07/Week-2.html"><![CDATA[<h2 id="week-2">Week 2</h2>
 
 <h3 id="gannt-chart">Gannt Chart</h3>
 
