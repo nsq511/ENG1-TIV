@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: Welcome to Team IV's Project!
 ---
 
 We are building an exciting video game about escaping the maze that is a University Computer Science Course at York University.
