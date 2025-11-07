@@ -7,9 +7,9 @@ categories: week
 
 ## Week 2
 
-### Gannt Chart
+### Gantt Chart
 
-![Gannt Chart for Week 2]({{ site.baseurl }}images/gannt2.png)
+![Gantt Chart for Week 2]({{ site.baseurl }}images/gantt2.png)
 
 ### Meeting 2
 

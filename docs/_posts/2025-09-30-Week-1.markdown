@@ -7,14 +7,14 @@ categories: week
 
 ## Week 1
 
-### Gannt Chart
+### Gantt Chart
 
-![Gannt Chart for Week 1]({{ site.baseurl }}images/gannt1.png)
+![Gantt Chart for Week 1]({{ site.baseurl }}images/gantt1.png)
 
 ### Meeting 1
 
 |              |           |
 | ------------ | --------- |
 | **Overview** | Getting to know eachother. |
-| **Details**  | This was our oppertunity to get to know eachother, to learn some basic research skills, and to do various bits of easy team admin such as choose a name. The Gannt chart is assumptions of how the work will go, mainly based on the expected work on the website. |
+| **Details**  | This was our oppertunity to get to know eachother, to learn some basic research skills, and to do various bits of easy team admin such as choose a name. The Gantt chart is assumptions of how the work will go, mainly based on the expected work on the website. |
 | **Absences** | Skylar Garrett     |

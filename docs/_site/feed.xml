@@ -1,8 +1,37 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="http://localhost:4000/ENG1-TIV/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/ENG1-TIV/" rel="alternate" type="text/html" /><updated>2025-11-07T01:40:15+00:00</updated><id>http://localhost:4000/ENG1-TIV/feed.xml</id><title type="html">Team IV</title><subtitle>The site for ENG1 Team IV of Stage 2 in 2025.</subtitle><entry><title type="html">Week 3 Report</title><link href="http://localhost:4000/ENG1-TIV/week/2025/10/14/Week-3.html" rel="alternate" type="text/html" title="Week 3 Report" /><published>2025-10-14T11:00:00+01:00</published><updated>2025-10-14T11:00:00+01:00</updated><id>http://localhost:4000/ENG1-TIV/week/2025/10/14/Week-3</id><content type="html" xml:base="http://localhost:4000/ENG1-TIV/week/2025/10/14/Week-3.html"><![CDATA[<h2 id="week-3">Week 3</h2>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="http://localhost:4000/ENG1-TIV/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/ENG1-TIV/" rel="alternate" type="text/html" /><updated>2025-11-07T01:49:38+00:00</updated><id>http://localhost:4000/ENG1-TIV/feed.xml</id><title type="html">Team IV</title><subtitle>The site for ENG1 Team IV of Stage 2 in 2025.</subtitle><entry><title type="html">Week 4 Report</title><link href="http://localhost:4000/ENG1-TIV/week/2025/10/21/Week-4.html" rel="alternate" type="text/html" title="Week 4 Report" /><published>2025-10-21T11:00:00+01:00</published><updated>2025-10-21T11:00:00+01:00</updated><id>http://localhost:4000/ENG1-TIV/week/2025/10/21/Week-4</id><content type="html" xml:base="http://localhost:4000/ENG1-TIV/week/2025/10/21/Week-4.html"><![CDATA[<h2 id="week-4">Week 4</h2>
 
-<h3 id="gannt-chart">Gannt Chart</h3>
+<h3 id="gantt-chart">Gantt Chart</h3>
 
-<p><img src="/ENG1-TIV/images/gannt3.png" alt="Gannt Chart for Week 3" /></p>
+<p><img src="/ENG1-TIV/images/gantt4.png" alt="Gantt Chart for Week 4" /></p>
+
+<h3 id="meeting-4">Meeting 4</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th> </th>
+      <th> </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Overview</strong></td>
+      <td>OVERVIEW.</td>
+    </tr>
+    <tr>
+      <td><strong>Details</strong></td>
+      <td>DESCRIPTION HERE</td>
+    </tr>
+    <tr>
+      <td><strong>Absences</strong></td>
+      <td>None.</td>
+    </tr>
+  </tbody>
+</table>]]></content><author><name></name></author><category term="week" /><summary type="html"><![CDATA[Week 4]]></summary></entry><entry><title type="html">Week 3 Report</title><link href="http://localhost:4000/ENG1-TIV/week/2025/10/14/Week-3.html" rel="alternate" type="text/html" title="Week 3 Report" /><published>2025-10-14T11:00:00+01:00</published><updated>2025-10-14T11:00:00+01:00</updated><id>http://localhost:4000/ENG1-TIV/week/2025/10/14/Week-3</id><content type="html" xml:base="http://localhost:4000/ENG1-TIV/week/2025/10/14/Week-3.html"><![CDATA[<h2 id="week-3">Week 3</h2>
+
+<h3 id="gantt-chart">Gantt Chart</h3>
+
+<p><img src="/ENG1-TIV/images/gantt3.png" alt="Gantt Chart for Week 3" /></p>
 
 <h3 id="meeting-3">Meeting 3</h3>
 
@@ -29,9 +58,9 @@
   </tbody>
 </table>]]></content><author><name></name></author><category term="week" /><summary type="html"><![CDATA[Week 3]]></summary></entry><entry><title type="html">Week 2 Report</title><link href="http://localhost:4000/ENG1-TIV/week/2025/10/07/Week-2.html" rel="alternate" type="text/html" title="Week 2 Report" /><published>2025-10-07T11:00:00+01:00</published><updated>2025-10-07T11:00:00+01:00</updated><id>http://localhost:4000/ENG1-TIV/week/2025/10/07/Week-2</id><content type="html" xml:base="http://localhost:4000/ENG1-TIV/week/2025/10/07/Week-2.html"><![CDATA[<h2 id="week-2">Week 2</h2>
 
-<h3 id="gannt-chart">Gannt Chart</h3>
+<h3 id="gantt-chart">Gantt Chart</h3>
 
-<p><img src="/ENG1-TIV/images/gannt2.png" alt="Gannt Chart for Week 2" /></p>
+<p><img src="/ENG1-TIV/images/gantt2.png" alt="Gantt Chart for Week 2" /></p>
 
 <h3 id="meeting-2">Meeting 2</h3>
 
@@ -58,9 +87,9 @@
   </tbody>
 </table>]]></content><author><name></name></author><category term="week" /><summary type="html"><![CDATA[Week 2]]></summary></entry><entry><title type="html">Week 1 Report</title><link href="http://localhost:4000/ENG1-TIV/week/2025/09/30/Week-1.html" rel="alternate" type="text/html" title="Week 1 Report" /><published>2025-09-30T11:00:00+01:00</published><updated>2025-09-30T11:00:00+01:00</updated><id>http://localhost:4000/ENG1-TIV/week/2025/09/30/Week-1</id><content type="html" xml:base="http://localhost:4000/ENG1-TIV/week/2025/09/30/Week-1.html"><![CDATA[<h2 id="week-1">Week 1</h2>
 
-<h3 id="gannt-chart">Gannt Chart</h3>
+<h3 id="gantt-chart">Gantt Chart</h3>
 
-<p><img src="/ENG1-TIV/images/gannt1.png" alt="Gannt Chart for Week 1" /></p>
+<p><img src="/ENG1-TIV/images/gantt1.png" alt="Gantt Chart for Week 1" /></p>
 
 <h3 id="meeting-1">Meeting 1</h3>
 
@@ -78,7 +107,7 @@
     </tr>
     <tr>
       <td><strong>Details</strong></td>
-      <td>This was our oppertunity to get to know eachother, to learn some basic research skills, and to do various bits of easy team admin such as choose a name. The Gannt chart is assumptions of how the work will go, mainly based on the expected work on the website.</td>
+      <td>This was our oppertunity to get to know eachother, to learn some basic research skills, and to do various bits of easy team admin such as choose a name. The Gantt chart is assumptions of how the work will go, mainly based on the expected work on the website.</td>
     </tr>
     <tr>
       <td><strong>Absences</strong></td>
@@ -87,9 +116,9 @@
   </tbody>
 </table>]]></content><author><name></name></author><category term="week" /><summary type="html"><![CDATA[Week 1]]></summary></entry><entry><title type="html">Example Weeks</title><link href="http://localhost:4000/ENG1-TIV/example/1989/12/31/example-week.html" rel="alternate" type="text/html" title="Example Weeks" /><published>1989-12-31T23:00:00+00:00</published><updated>1989-12-31T23:00:00+00:00</updated><id>http://localhost:4000/ENG1-TIV/example/1989/12/31/example-week</id><content type="html" xml:base="http://localhost:4000/ENG1-TIV/example/1989/12/31/example-week.html"><![CDATA[<h2 id="week-0">Week 0</h2>
 
-<h3 id="gannt-chart">Gannt Chart</h3>
+<h3 id="gantt-chart">Gantt Chart</h3>
 
-<p><img src="#" alt="Example Gannt Chart" /></p>
+<p><img src="#" alt="Example Gantt Chart" /></p>
 
 <h3 id="meeting-0">Meeting 0</h3>
 
