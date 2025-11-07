@@ -15,6 +15,6 @@ categories: week
 
 |              |           |
 | ------------ | --------- |
-| **Overview** | OVERVIEW.  |
-| **Details**  | DESCRIPTION HERE |
+| **Overview** | Architecture and Planning.  |
+| **Details**  | This week, while various bits of documentation were being done, work started on prototyping with LibGDX and a demo was made |
 | **Absences** | None.     |
