@@ -1,4 +1,33 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="http://localhost:4000/ENG1-TIV/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/ENG1-TIV/" rel="alternate" type="text/html" /><updated>2025-11-07T01:49:38+00:00</updated><id>http://localhost:4000/ENG1-TIV/feed.xml</id><title type="html">Team IV</title><subtitle>The site for ENG1 Team IV of Stage 2 in 2025.</subtitle><entry><title type="html">Week 4 Report</title><link href="http://localhost:4000/ENG1-TIV/week/2025/10/21/Week-4.html" rel="alternate" type="text/html" title="Week 4 Report" /><published>2025-10-21T11:00:00+01:00</published><updated>2025-10-21T11:00:00+01:00</updated><id>http://localhost:4000/ENG1-TIV/week/2025/10/21/Week-4</id><content type="html" xml:base="http://localhost:4000/ENG1-TIV/week/2025/10/21/Week-4.html"><![CDATA[<h2 id="week-4">Week 4</h2>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="http://localhost:4000/ENG1-TIV/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/ENG1-TIV/" rel="alternate" type="text/html" /><updated>2025-11-07T13:48:28+00:00</updated><id>http://localhost:4000/ENG1-TIV/feed.xml</id><title type="html">Team IV</title><subtitle>The site for ENG1 Team IV of Stage 2 in 2025.</subtitle><entry><title type="html">Week 5 Report</title><link href="http://localhost:4000/ENG1-TIV/week/2025/11/04/Week-5.html" rel="alternate" type="text/html" title="Week 5 Report" /><published>2025-11-04T10:00:00+00:00</published><updated>2025-11-04T10:00:00+00:00</updated><id>http://localhost:4000/ENG1-TIV/week/2025/11/04/Week-5</id><content type="html" xml:base="http://localhost:4000/ENG1-TIV/week/2025/11/04/Week-5.html"><![CDATA[<h2 id="week-5">Week 5</h2>
+
+<h3 id="gantt-chart">Gantt Chart</h3>
+
+<p><img src="/ENG1-TIV/images/gantt5.png" alt="Gantt Chart for Week 5" /></p>
+
+<h3 id="meeting-5">Meeting 5</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th> </th>
+      <th> </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Overview</strong></td>
+      <td>Finalising.</td>
+    </tr>
+    <tr>
+      <td><strong>Details</strong></td>
+      <td>This week was dedicated to clean-up of the code and the documentation, and making sure everything was in proper order. We have a working copy of the game now, and it includes all of the features that we interpreted that the client wanted from it.</td>
+    </tr>
+    <tr>
+      <td><strong>Absences</strong></td>
+      <td>Skylar Garrett.</td>
+    </tr>
+  </tbody>
+</table>]]></content><author><name></name></author><category term="week" /><summary type="html"><![CDATA[Week 5]]></summary></entry><entry><title type="html">Week 4 Report</title><link href="http://localhost:4000/ENG1-TIV/week/2025/10/21/Week-4.html" rel="alternate" type="text/html" title="Week 4 Report" /><published>2025-10-21T11:00:00+01:00</published><updated>2025-10-21T11:00:00+01:00</updated><id>http://localhost:4000/ENG1-TIV/week/2025/10/21/Week-4</id><content type="html" xml:base="http://localhost:4000/ENG1-TIV/week/2025/10/21/Week-4.html"><![CDATA[<h2 id="week-4">Week 4</h2>
 
 <h3 id="gantt-chart">Gantt Chart</h3>
 
@@ -16,15 +45,15 @@
   <tbody>
     <tr>
       <td><strong>Overview</strong></td>
-      <td>OVERVIEW.</td>
+      <td>Architecture and Planning.</td>
     </tr>
     <tr>
       <td><strong>Details</strong></td>
-      <td>DESCRIPTION HERE</td>
+      <td>This week, while various bits of documentation were being done, work started on prototyping with LibGDX and a demo was made.</td>
     </tr>
     <tr>
       <td><strong>Absences</strong></td>
-      <td>None.</td>
+      <td>Calum Wright.</td>
     </tr>
   </tbody>
 </table>]]></content><author><name></name></author><category term="week" /><summary type="html"><![CDATA[Week 4]]></summary></entry><entry><title type="html">Week 3 Report</title><link href="http://localhost:4000/ENG1-TIV/week/2025/10/14/Week-3.html" rel="alternate" type="text/html" title="Week 3 Report" /><published>2025-10-14T11:00:00+01:00</published><updated>2025-10-14T11:00:00+01:00</updated><id>http://localhost:4000/ENG1-TIV/week/2025/10/14/Week-3</id><content type="html" xml:base="http://localhost:4000/ENG1-TIV/week/2025/10/14/Week-3.html"><![CDATA[<h2 id="week-3">Week 3</h2>
@@ -49,7 +78,7 @@
     </tr>
     <tr>
       <td><strong>Details</strong></td>
-      <td>The team has been given more details about what the client wants. The risk analysis is well underway and the delegation of work is getting more specific, as highlighted in the chart.</td>
+      <td>The team has been given more details about what the client wants. The risk analysis is well underway and the delegation of work is getting more specific, as highlighted in the chart. Work started on architecture diagrams and researching LibGDX.</td>
     </tr>
     <tr>
       <td><strong>Absences</strong></td>

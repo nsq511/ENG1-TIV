@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Week 5 Report"
+date:   2025-11-04 11:00:00 +0100
+categories: week
+---
+
+## Week 5
+
+### Gantt Chart
+
+![Gantt Chart for Week 5]({{ site.baseurl }}images/gantt5.png)
+
+### Meeting 5
+
+|              |           |
+| ------------ | --------- |
+| **Overview** | Finalising. |
+| **Details**  | This week was dedicated to clean-up of the code and the documentation, and making sure everything was in proper order. We have a working copy of the game now, and it includes all of the features that we interpreted that the client wanted from it. |
+| **Absences** | Skylar Garrett. |
