@@ -9,12 +9,12 @@ categories: week
 
 ### Gannt Chart
 
-![Example Gannt Chart]({{ site.baseurl }}images/gannt1.png)
+![Example Gannt Chart]({{ site.baseurl }}images/gannt2.png)
 
 ### Meeting 2
 
 |              |           |
 | ------------ | --------- |
 | **Overview** | Getting to Work.  |
-| **Details**  | Now that the team was together and we were all present, it was time to start the risk assessment and planning stage once we knew exactly what the client wanted. It was decided that the work on the website would begin with a phase of research into the best technology to use. |
+| **Details**  | Now that the team was together and we were all present, it was time to start the risk assessment and planning stage once we knew exactly what the client wanted. It was decided that the work on the website would begin with a phase of research into the best technology to use. This was our first attempt at making Gannt charts. |
 | **Absences** | None.     |
