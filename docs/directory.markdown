@@ -18,6 +18,7 @@ permalink: /directory/
 - [Week 2]({{ site.baseurl }}week/2025/10/07/Week-2.html)
 - [Week 3]({{ site.baseurl }}week/2025/10/14/Week-3.html)
 - [Week 4]({{ site.baseurl }}week/2025/10/21/Week-4.html)
+- [Week 5]({{ site.baseurl }}week/2025/10/21/Week-5.html)
 
 ## Resources
 
@@ -27,8 +28,18 @@ permalink: /directory/
 - [Gantt Chart 2]({{ site.baseurl }}images/gantt2.png)
 - [Gantt Chart 3]({{ site.baseurl }}images/gantt3.png)
 - [Gantt Chart 4]({{ site.baseurl }}images/gantt4.png)
+- [Gantt Chart 5]({{ site.baseurl }}images/gantt5.png)
 
 ## Repositories and Sources
 
 - [GitHub](https://github.com/nsq511/ENG1-TIV)
 - [Google Docs](https://github.com/nsq511/ENG1-TIV)
+
+## Credit
+
+- [Ari Kikezos](https://github.com/kikezos)
+- [Arya Enkhnasan](https://github.com/Arya-Enkhnasan)
+- [Ben Green](https://github.com/fwl517)
+- [Calum Wright](https://github.com/dqg521)
+- [Lilac Graham](https://github.com/tqg506)
+- [Skylar Garrett](https://github.com/nsq511)
