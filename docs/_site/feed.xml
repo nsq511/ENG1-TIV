@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="http://localhost:4000/ENG1-TIV/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/ENG1-TIV/" rel="alternate" type="text/html" /><updated>2025-11-07T13:58:23+00:00</updated><id>http://localhost:4000/ENG1-TIV/feed.xml</id><title type="html">Team IV</title><subtitle>The site for ENG1 Team IV of Stage 2 in 2025.</subtitle><entry><title type="html">Week 5 Report</title><link href="http://localhost:4000/ENG1-TIV/week/2025/11/04/Week-5.html" rel="alternate" type="text/html" title="Week 5 Report" /><published>2025-11-04T10:00:00+00:00</published><updated>2025-11-04T10:00:00+00:00</updated><id>http://localhost:4000/ENG1-TIV/week/2025/11/04/Week-5</id><content type="html" xml:base="http://localhost:4000/ENG1-TIV/week/2025/11/04/Week-5.html"><![CDATA[<h2 id="week-5">Week 5</h2>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="http://localhost:4000/ENG1-TIV/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/ENG1-TIV/" rel="alternate" type="text/html" /><updated>2025-11-08T13:41:50+00:00</updated><id>http://localhost:4000/ENG1-TIV/feed.xml</id><title type="html">Team IV</title><subtitle>The site for ENG1 Team IV of Stage 2 in 2025.</subtitle><entry><title type="html">Week 5 Report</title><link href="http://localhost:4000/ENG1-TIV/week/2025/11/04/Week-5.html" rel="alternate" type="text/html" title="Week 5 Report" /><published>2025-11-04T10:00:00+00:00</published><updated>2025-11-04T10:00:00+00:00</updated><id>http://localhost:4000/ENG1-TIV/week/2025/11/04/Week-5</id><content type="html" xml:base="http://localhost:4000/ENG1-TIV/week/2025/11/04/Week-5.html"><![CDATA[<h2 id="week-5">Week 5</h2>
 
 <h3 id="gantt-chart">Gantt Chart</h3>
 
-<p><img src="/ENG1-TIV/images/gantt5.png" alt="Gantt Chart for Week 5" /></p>
+<p><img src="/ENG1-TIV/images/gantt/gantt5.png" alt="Gantt Chart for Week 5" /></p>
 
 <h3 id="meeting-5">Meeting 5</h3>
 
@@ -31,7 +31,7 @@
 
 <h3 id="gantt-chart">Gantt Chart</h3>
 
-<p><img src="/ENG1-TIV/images/gantt4.png" alt="Gantt Chart for Week 4" /></p>
+<p><img src="/ENG1-TIV/images/gantt/gantt4.png" alt="Gantt Chart for Week 4" /></p>
 
 <h3 id="meeting-4">Meeting 4</h3>
 
@@ -60,7 +60,7 @@
 
 <h3 id="gantt-chart">Gantt Chart</h3>
 
-<p><img src="/ENG1-TIV/images/gantt3.png" alt="Gantt Chart for Week 3" /></p>
+<p><img src="/ENG1-TIV/images/gantt/gantt3.png" alt="Gantt Chart for Week 3" /></p>
 
 <h3 id="meeting-3">Meeting 3</h3>
 
@@ -89,7 +89,7 @@
 
 <h3 id="gantt-chart">Gantt Chart</h3>
 
-<p><img src="/ENG1-TIV/images/gantt2.png" alt="Gantt Chart for Week 2" /></p>
+<p><img src="/ENG1-TIV/images/gantt/gantt2.png" alt="Gantt Chart for Week 2" /></p>
 
 <h3 id="meeting-2">Meeting 2</h3>
 
@@ -118,7 +118,7 @@
 
 <h3 id="gantt-chart">Gantt Chart</h3>
 
-<p><img src="/ENG1-TIV/images/gantt1.png" alt="Gantt Chart for Week 1" /></p>
+<p><img src="/ENG1-TIV/images/gantt/gantt1.png" alt="Gantt Chart for Week 1" /></p>
 
 <h3 id="meeting-1">Meeting 1</h3>
 

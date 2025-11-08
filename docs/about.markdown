@@ -8,12 +8,12 @@ permalink: /about/
 
 Members of Team IV:
 
-- Arya Enkhnasan
-- Skylar Garrett
-- Lilac Graham
-- Ben Green
-- Ari Kikezos
-- Calum Wright
+- [Ari Kikezos](https://github.com/kikezos)
+- [Arya Enkhnasan](https://github.com/Arya-Enkhnasan)
+- [Ben Green](https://github.com/fwl517)
+- [Calum Wright](https://github.com/dqg521)
+- [Lilac Graham](https://github.com/tqg506)
+- [Skylar Garrett](https://github.com/nsq511)
 
 ## About the Repository Technology
 
@@ -30,6 +30,5 @@ You can find the source code for Minima at GitHub:
 You can find the source code for Jekyll at GitHub:
 [jekyll][jekyll-organization] /
 [jekyll](https://github.com/jekyll/jekyll)
-
 
 [jekyll-organization]: https://github.com/jekyll
