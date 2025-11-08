@@ -9,7 +9,7 @@ categories: week
 
 ### Gantt Chart
 
-![Gantt Chart for Week 4]({{ site.baseurl }}images/gantt4.png)
+![Gantt Chart for Week 4]({{ site.baseurl }}images/gantt/gantt4.png)
 
 ### Meeting 4
 
