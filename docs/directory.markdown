@@ -10,7 +10,9 @@ permalink: /directory/
 
 - [Home]({{ site.baseurl }})
 - [About]({{ site.baseurl }}about/)
+- [Architecture Diagrams]({{ site.baseurl }}arch_diagrams/)
 - [Directory]({{ site.baseurl }}directory/)
+- [Download]({{ site.baseurl }}download/)
 
 ### Weeks
 
