@@ -24,6 +24,14 @@ permalink: /directory/
 
 ## Resources
 
+### Assets
+
+- [Key Asset]({{ site.baseurl }}images/assets/Key.png)
+- [Notes Asset]({{ site.baseurl }}images/assets/Notes.png)
+- [Player Asset]({{ site.baseurl }}images/assets/Player.png)
+- [TRIO Background Asset]({{ site.baseurl }}images/assets/TRIO Background.png)
+- [TRIO Notification Asset]({{ site.baseurl }}images/assets/TRIO Notification.png)
+
 ### Gantt Charts
 
 - [Gantt Chart 1]({{ site.baseurl }}images/gantt/gantt1.png)
@@ -58,4 +66,4 @@ permalink: /directory/
 ## Repositories and Sources
 
 - [GitHub](https://github.com/nsq511/ENG1-TIV)
-- [Google Docs](https://github.com/nsq511/ENG1-TIV)
+- [Google Docs](https://drive.google.com/drive/u/1/folders/1AqG_K0e3QuDyBhYFnq3cQ76zx6bQjitC)
